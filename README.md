@@ -1,4 +1,6 @@
 # SAFE-trackAI
+![Screenshot 2025-04-08 at 15-59-48 Hallucination Mitigat](https://github.com/user-attachments/assets/eeecdbd1-05ab-4ca0-993a-3d9ffe40583c)
+![Screenshot 2025-04-08 at 16-00-00 Hallucination Mitigat](https://github.com/user-attachments/assets/f8ba4673-ff8e-470f-9371-55fc656645b3)
 
 ```
 ### 1. Input Phase
